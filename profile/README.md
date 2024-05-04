@@ -14,7 +14,9 @@ Cryorithm is focused on developing modular components, namely "predictors," for 
 
 ### 🏗️ How to Contribute
 
-Contributing to Cryorithm is fun! Here’s how you can get involved:
+Contributing to Cryorithm is fun!
+
+Here’s how you can get involved:
 - **Fork and clone**: Explore our repositories, fork them, and make your own tweaks!
 - **Pull requests**: Got an enhancement or a new feature? Submit a pull request!
 - **Issues**: Encounter a bug or have a suggestion? Open an issue.
