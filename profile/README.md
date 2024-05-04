@@ -12,6 +12,8 @@ Welcome to the official GitHub organization for **Cryorithm(TM)**, a pioneering 
 
 Cryorithm is focused on developing modular components, namely "predictors," for crafting personalized investment strategies. Our mission is clear: empower everyone to create their own financial tools while ensuring utmost data privacy and maximizing personal outcomes. We foster a collaborative environment built upon shared ownership and contributions from around the globe.
 
+ View the [📜 Organization Charter](https://github.com/Cryorithm/cryorithm-docs/blob/main/organization/charter/README.md) for more detailed information about Cryorithm(TM). 
+
 ### 🏗️ How to Contribute
 
 Contributing to Cryorithm is fun!
