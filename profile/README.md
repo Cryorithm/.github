@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/168689579?s=400&u=9b678042aec5d95ae7f31fcbd18104d00cf361df&v=4" style="border:10px solid black">
+</p>
+
+# Cryorithm(TM)
+
 ## Hi there 👋
 
 Welcome to the official GitHub organization for **Cryorithm(TM)**, a pioneering open-source software guild dedicated to revolutionizing the way individuals interact with financial technologies. Dive into our world where modular components meet individual empowerment!
