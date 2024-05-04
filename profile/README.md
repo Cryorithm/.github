@@ -2,17 +2,17 @@
   <img src="https://avatars.githubusercontent.com/u/168689579?s=400&u=9b678042aec5d95ae7f31fcbd18104d00cf361df&v=4" style="border:10px solid black">
 </p>
 
-# Cryorithm(TM)
+# Cryorithm™
 
 ## Hi there 👋
 
-Welcome to the official GitHub organization for **Cryorithm(TM)**, a pioneering open-source software guild dedicated to revolutionizing the way individuals interact with financial technologies. Dive into our world where modular components meet individual empowerment!
+Welcome to the official GitHub organization for **Cryorithm**, a pioneering open-source software guild dedicated to revolutionizing the way individuals interact with financial technologies. Dive into our world where modular components meet individual empowerment!
 
-### 🙋‍♀️ About Cryorithm(TM)
+### 🙋‍♀️ About Cryorithm
 
 Cryorithm is focused on developing modular components, namely "predictors," for crafting personalized investment strategies. Our mission is clear: empower everyone to create their own financial tools while ensuring utmost data privacy and maximizing personal outcomes. We foster a collaborative environment built upon shared ownership and contributions from around the globe.
 
- View the [📜 Organization Charter](https://github.com/Cryorithm/cryorithm-docs/blob/main/organization/charter/README.md) for more detailed information about Cryorithm(TM). 
+View the [📜 Organization Charter](https://github.com/Cryorithm/cryorithm-docs/blob/main/organization/charter/README.md) for more detailed information about Cryorithm.
 
 ### 🏗️ How to Contribute
 
@@ -38,4 +38,10 @@ To get started with Cryorithm and understand our architecture better:
 
 ### 🧙 The Magic of Markdown
 
-Remember, great documentation makes great projects! Here at Cryorithm, we harness the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to ensure that all information is accessible and easy to navigate. 
+Remember, great documentation makes great projects! Here at Cryorithm, we harness the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to ensure that all information is accessible and easy to navigate.
+
+---
+
+**Note on Trademark Usage:** The trademark symbol (™) should appear after "Cryorithm" at its first occurrence in major sections of documentation or public-facing materials where brand identity needs emphasis[^1].
+
+[^1]: In other instances within continuous text bodies or informal communications within GitHub repos (e.g., issues discussions), it's sufficient without repetitive use unless legally advised otherwise.
